@@ -1,0 +1,18 @@
+{
+  "@@locale": "es",
+  "todoTitle": "Tareas",
+  "countryTitle": "Paises",
+  "all": "Todo",
+  "completed": "Completada",
+  "pending": "Pendiente",
+  "taskCompleted": "{count} tareas completadas",
+  "todoDetailTitle": "Detalle de la Tarea",
+  "todoDetailSubtitle": "Tarea:",
+  "todoDetailIdentifier": "Identificador: {id}",
+  "todoRegisterTitle": "Crear nueva tarea",
+  "todoRegisterLabel": "Título",
+  "todoRegisterButton": "Crear",
+  "todoUpdateTitle": "Actualizar tarea",
+  "todoUpdateLabel": "Nuevo título",
+  "todoUpdateButton": "Actualizar"
+}

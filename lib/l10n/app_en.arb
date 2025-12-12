@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "todoTitle": "Todos",
+  "countryTitle": "Countries",
+  "all": "All",
+  "completed": "Completed",
+  "pending": "Pending",
+  "taskCompleted": "{count} todos completed",
+  "todoDetailTitle": "Detail todo",
+  "todoDetailSubtitle": "Todo:",
+  "todoDetailIdentifier": "Identifier: {id}",
+   "todoRegisterTitle": "Create todo",
+  "todoRegisterLabel": "Title",
+  "todoRegisterButton": "Create",
+  "todoUpdateTitle": "Update todo",
+  "todoUpdateLabel": "New title",
+  "todoUpdateButton": "Update"
+}

@@ -66,8 +66,8 @@ La aplicación se estructura en:
 
 ## 🛠 Tecnologías y Dependencias
 
-- **Flutter** >= 3.x  
-- **Dart** >= 3.x  
+- **Flutter** >= 3.35.4  
+- **Dart** >= 3.9.2  
 - **Estado:** Riverpod, Flutter Riverpod  
 - **Modelos inmutables:** Freezed, Freezed Annotation  
 - **Persistencia local:** Hive, sqflite  
