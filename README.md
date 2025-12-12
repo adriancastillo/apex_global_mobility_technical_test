@@ -93,7 +93,7 @@ Se incluyen pruebas básicas para validar:
 ## 🚀 Instalación
 
 ## Clonar el repositorio
-git clone https://github.com/adriancastillo/apex_global_mobility_test.git
+git clone https://github.com/adriancastillo/apex_global_mobility_technical_test
 cd apex_global_mobility_test
 
 ## Instalar dependencias
